@@ -30,8 +30,9 @@
 ## 📖 About The Project
 
 <div align="center">
-  <img src="./image.png" alt= " height="1432" alt="image" src="https://github.com/user-attachments/assets/e29da589-5089-404c-a62a-33e40a5fbfc4" />
-">
+  <img width="852" height="1564" alt="image" src="https://github.com/user-attachments/assets/1e6c6fe2-7cd0-41f2-b786-214f49673946" />
+<img width="1080" height="1432" alt="image" src="https://github.com/user-attachments/assets/ac2e2df7-5bc9-4549-be36-d88b58e90ce2" />
+
 </div>
 
 **EXTER** is a powerful Discord selfbot tool that enables multiple user accounts to connect to voice channels simultaneously using WebSocket connections. Built with Node.js, this tool demonstrates advanced WebSocket implementation for interacting with Discord's voice gateway.
@@ -430,4 +431,5 @@ Any Other Conclusion Reach Me ----> Discord : --- >  caramel_rahat , caramelgotn
 
 <img width="852" height="1564" alt="image" src="https://github.com/user-attachments/assets/bac834a0-ddde-4b9d-ac8f-dc408eca68ad" /> <img width="717" height="1600" alt="image" src="https://github.com/user-attachments/assets/efff351a-80e5-4215-acda-994400992d7f" />
 <img width="1080" height="1432" alt="image" src="https://github.com/user-attachments/assets/fbd47f50-4c37-41dd-83ba-f0ee4fb87500" />
+
 
