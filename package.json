@@ -1,34 +1,51 @@
 {
-  "name": "vc-runner",
-  "version": "1.0.0",
-  "description": "discord vc joiner",
+  "name": "exter",
+  "version": "2.0.0",
+  "description": "Advanced Discord Voice Channel Mass Joiner - Educational WebSocket Implementation",
   "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "setup": "npm install",
+    "clean": "rm -rf node_modules package-lock.json",
+    "update": "npm update"
+  },
+  "keywords": [
+    "discord",
+    "voice",
+    "websocket",
+    "selfbot",
+    "educational",
+    "nodejs",
+    "api"
+  ],
+  "author": "caramel_rahat",
+  "license": "MIT",
   "dependencies": {
-    "asynckit": "^0.4.0",
     "axios": "^1.13.1",
-    "combined-stream": "^1.0.8",
-    "component-emitter": "^2.0.0",
-    "delayed-stream": "^1.0.0",
-    "follow-redirects": "^1.15.9",
-    "form-data": "^4.0.1",
-    "mime-db": "^1.52.0",
-    "mime-types": "^2.1.35",
-    "proxy-from-env": "^1.1.0",
-    "stream": "^0.0.3",
-    "vc-runner": "file:",
     "ws": "^8.18.0"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/00nx/vc-runner.git"
+    "url": "git+https://github.com/Rahat-cmd/exter.git"
   },
-  "author": "t.me/misjudgment",
-  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/00nx/vc-runner/issues"
+    "url": "https://github.com/Rahat-cmd/exter/issues"
   },
-  "homepage": "https://github.com/00nx/vc-runner#readme"
+  "homepage": "https://github.com/Rahat-cmd/exter#readme",
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "contributors": [
+    {
+      "name": "caramel_rahat",
+      "email": "rahatfarehin@gmail.com",
+      "url": "https://github.com/Rahat-cmd"
+    }
+  ],
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  }
 }
