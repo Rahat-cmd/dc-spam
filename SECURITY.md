@@ -79,3 +79,8 @@ EXTER follows semantic versioning. Below are the currently supported versions:
 5. **Public Disclosure:** After 30 days or when patch is widely deployed
 
 ### Response Timeline Example:
+**Day 1-2**: Acknowledge receipt
+**Day 3-7**: Validate vulnerability
+**Day 8-14**: Develop fix
+**Day 15**: Private release to reporter
+**Day 45**: Public release and disclosure
